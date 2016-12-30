@@ -11,3 +11,16 @@ p {
 #tekst {
 	text-align: center;
 }
+
+span {
+	color: green;
+}
+
+h2 {
+	color: orange;
+}
+
+a {
+	text-align: center;
+	color: white;
+}
