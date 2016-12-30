@@ -1,0 +1,13 @@
+h1 {
+	color: red;
+	background-color: black;
+}
+
+p {
+	text-decoration: initial;
+	color: blue;
+}
+
+#tekst {
+	text-align: center;
+}
